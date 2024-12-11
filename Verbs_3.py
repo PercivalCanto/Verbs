@@ -142,9 +142,5 @@ Verbs	['Vertir']=['wear','wore','worn']
 Verbs	['Vir']=['come','came','come']
 Verbs	['Voar']=['fly','flew','flown']
 
-import pandas as pd
-
-df = pd.DataFrame(Verbs)
-print(df)
 
 
